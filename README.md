@@ -1,8 +1,8 @@
-# - 👋 Hi, I’m @PaulSattler
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @PaulSattler
+  Elektroniker für Betriebstechnik in Ausbildung 
+  https://www.bszet.de/
+  
+#
 
 <!---
 PaulSattler/PaulSattler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
