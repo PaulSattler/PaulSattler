@@ -1,6 +1,9 @@
 # 👋 Hi, I’m @PaulSattler
-  Elektroniker für Betriebstechnik in Ausbildung 
-  https://www.bszet.de/
+  Elektroniker für Betriebstechnik 
+
+Ab 2023 Fachschule für Technik für die Fachrichtungen Elektrotechnik
+
+#https://www.bszet.de/
   
 #
 
