@@ -3,7 +3,7 @@
 
 Ab 2023 Fachschule für Technik für die Fachrichtungen Elektrotechnik
 
-#https://www.bszet.de/
+https://www.bszet.de/
   
 #
 
