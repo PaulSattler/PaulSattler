@@ -1,9 +1,10 @@
-# 👋 Hi, I’m @PaulSattler
+# Hallo von @PaulSattler 😉
+  
   Elektroniker für Betriebstechnik 
-
-Ab 2023 Fachschule für Technik für die Fachrichtungen Elektrotechnik
-
-https://www.bszet.de/
+  
+  Ab 2023 Fachschule für Technik Fachrichtungen Elektrotechnik am BSZET Dresden
+  
+  https://www.bszet.de/
   
 #
 
