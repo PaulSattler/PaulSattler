@@ -5,7 +5,7 @@
   Ab 2023 Fachschule für Technik Fachrichtungen Elektrotechnik am BSZET Dresden
   
   https://www.bszet.de/
-  
+  http://paulsattler.de/
 #
 
 <!---
