@@ -2,7 +2,7 @@
   
   Elektroniker für Betriebstechnik 
   
-  Ab 2023 Fachschule für Technik Fachrichtungen Elektrotechnik am BSZET Dresden
+  Fachschule für Technik Fachrichtungen Elektrotechnik am BSZET Dresden
   
   https://www.bszet.de/
   
